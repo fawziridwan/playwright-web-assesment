@@ -27,7 +27,7 @@ Ikuti langkah-langkah berikut untuk menyiapkan lingkungan pengujian lokal Anda:
 1.  **Clone Repository**
     ```bash
     git clone https://github.com/fawziridwan/playwright-web-assesment.git
-    cd playwright-web
+    cd playwright-web-assesment
     ```
 
 2.  **Install Dependencies**
