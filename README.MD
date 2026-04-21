@@ -1,9 +1,5 @@
 # Playwright Automation Framework - Sauce Demo
 
-[![Playwright](https://img.shields.io/badge/maintained%20with-Playwright-2EAD33.svg)](https://playwright.dev/)
-[![JavaScript](https://img.shields.io/badge/language-JavaScript-F7DF1E.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-
 ## Description
 
 **Automation Playwright**, repository ini berisi kumpulan script pengujian end-to-end (E2E) otomatis yang dibangun menggunakan [Playwright](https://playwright.dev/). Framework ini dirancang dengan pola **Page Object Model (POM)** untuk memastikan kode pengujian yang modular, mudah dipelihara, dan dapat digunakan kembali.
