@@ -4,7 +4,6 @@ const InventoryPage = require("../pages/InventoryPage");
 
 test.describe("Test Suites - Sauce Demo Login", () => {
   let loginPage;
-  test;
   let inventoryPage;
 
   test.beforeEach(async ({ page }) => {
